@@ -4,7 +4,7 @@
 
 ### Stock-Analysis-Tool
 
-This project demonstrates various financial analysis techniques using Python, using Streamlit to visualise this information into an informative and user-friendly experience. This project utilizes modules such as yfinance, matplotlib, and VaderSentiment to analyse stocks and extract news articles related to a range of stock tickers. 
+This project demonstrates various financial analysis techniques using Python and using Streamlit to visualise this information into an informative and user-friendly experience. This project utilizes modules such as yfinance, matplotlib, and VaderSentiment to analyse stocks and extract news articles related to a range of stock tickers. 
 
 The project creates visualizations of historical stock data, calculates returns, and analyses news article sentiment to gain a better understanding of the performance of stocks.
 

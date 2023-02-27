@@ -10,7 +10,7 @@ The project creates visualizations of historical stock data, calculates returns,
 
 **This project is currently in development**
 
-**Repository Link**: [Stock-Analysis-Tool](https://github.com/ElliottFairhall/Stock-Analysis-Tool@blank)
+**Repository Link**: [Stock-Analysis-Tool](https://github.com/ElliottFairhall/Stock-Analysis-Tooltarget="_blank")
 
 ### Sea-Level-Predictions
 

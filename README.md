@@ -1,26 +1,52 @@
 
-# My Projects
+# Project README.md
+## Python Projects
 
-This repository contains a collection of my personal projects, ranging from data analysis and visualization to machine learning and web development. Below is a brief description of each project, along with a link to the corresponding repository.
+### Stock-Analysis-Tool
 
-## [Sea Level Prediction](https://github.com/username/sea-level-prediction)
+This project demonstrates various financial analysis techniques using Python, using Streamlit to visualise this information into an informative and user-friendly experience. This project utilizes modules such as yfinance, matplotlib, and VaderSentiment to analyse stocks and extract news articles related to a range of stock tickers. 
 
-A machine learning project that predicts sea level rise based on historical data. The project involves data cleaning, exploratory data analysis, feature engineering, model selection, and hyperparameter tuning.
+The project creates visualizations of historical stock data, calculates returns, and analyses news article sentiment to gain a better understanding of the performance of stocks.
 
-## [Sentiment Analysis](https://github.com/username/sentiment-analysis)
+**Repository Link**: [Stock-Analysis-Tool](https://github.com/ElliottFairhall/Stock-Analysis-Tool)
 
-A natural language processing project that performs sentiment analysis on text data using machine learning algorithms. The project involves data pre-processing, feature extraction, model selection, and evaluation.
+### Sea-Level-Predictions
 
-## [Stock Price Prediction](https://github.com/username/stock-price-prediction)
+This project aims to predict the sea level rise for the next 50 years using various models and data sources. The project involves analysing historical sea level data, using pandas, matplotlib and streamlit to visualise this infromation. 
 
-A time series analysis project that predicts stock prices using historical data. The project involves data cleaning, feature engineering, model selection, hyperparameter tuning, and back testing.
+**Repository Link**: [Sea-Level-Predictions](https://github.com/ElliottFairhall/Sea-Level-Prediction)
 
-## [Web Scraping](https://github.com/username/web-scraping)
+### Interactive-Sentiment-Analysis
 
-A web scraping project that extracts data from websites using Python libraries such as Beautiful Soup and Scrapy. The project involves identifying target websites, designing the scraping algorithm, and handling data cleaning and pre-processing.
+This project looks to perform sentiment analysis on user-provided text and presents the results in a range of charts and visuals. 
 
-## [Data Visualization](https://github.com/username/data-visualization)
+The application determines the overall sentiment of the text, calculates a polarity and subjectivity score, identifies and extracts named entities, and provides insights into the top 10 keywords discussed in the input text.
 
-A data visualization project that creates interactive plots and charts using Python libraries such as Matplotlib, Seaborn, and Plotly. The project involves identifying target data sets, designing the visualization, and implementing user interactivity.
+**Repository Link**: [Interactive-Sentiment-Analysis](https://github.com/ElliottFairhall/Interactive-Sentiment-Analysis)
 
-Feel free to explore each project repository for more details and code samples!
+### Forum-Page-Views-Analysis
+
+This project is a simple data analysis application built using the Python programming language and the Streamlit framework. The application visualises the daily page views of the freecodeCamp forum from 2016 to 2019. 
+
+The user can select the level of aggregation of the data, whether daily, monthly, or yearly, and view the data in a range of diffrent ways.
+
+**Repository Link**: [Forum-Page-Views-Analysis](https://github.com/ElliottFairhall/Forum-Page-Views-Analysis)
+
+### Iris-Flower-Prediction
+
+This project is a machine learning application for predicting the type of iris based on measurements of its petal and sepal length and width. 
+
+Using modules such as sklearn, numpy, and pandas, the model is able to accurately classify Irises into one of three species based on their physical characteristics. 
+
+The project showcases the possibilities with machine learning and provides interactivity to the end-user. 
+
+**Repository Link**: [Iris-Flower-Prediction](https://github.com/ElliottFairhall/Iris-Flower-Prediction)
+
+## Azure Projects
+
+### Google-Drive-to-Azure-Blob-Storage
+
+This project provides an automated backup solution for Google Drive that utilizes Azure services to provide a scalable, secure, and cost-effective solution for migrating files from Google Drive to Azure Blob Storage. 
+
+The solution uses the Google Drive API to access files and folders in Google Drive and transfers these files to a respective Azure Blob Storage to store the backup data.  The project also utilises other Azure technologies to support security and governance such as Azure Key Vault and Events Hub to security store secrets and keys as well as provide detailed log handling. 
+**Repository Link**: [Google-Drive-to-Azure-Blob-Storage](https://github.com/ElliottFairhall/Google-Drive-to-Azure-Blob-Storage)

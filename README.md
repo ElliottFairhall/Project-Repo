@@ -12,7 +12,7 @@ The project creates visualizations of historical stock data, calculates returns,
 
 **Repository Link**: [Stock-Analysis-Tool](https://github.com/ElliottFairhall/Stock-Analysis-Tool)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app/)
 
 ### Sea-Level-Predictions
 
@@ -22,7 +22,7 @@ This project aims to predict the sea level rise for the next 50 years using vari
 
 **Repository Link**: [Sea-Level-Predictions](https://github.com/ElliottFairhall/Sea-Level-Prediction)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://elliottfairhall-sea-level-prediction-main-f0riix.streamlit.app/)
 
 ### Interactive-Sentiment-Analysis
 
@@ -34,7 +34,7 @@ The application determines the overall sentiment of the text, calculates a polar
 
 **Repository Link**: [Interactive-Sentiment-Analysis](https://github.com/ElliottFairhall/Interactive-Sentiment-Analysis)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://elliottfairhall-interactive-sentiment-analysis-main-62u54w.streamlit.app/)
 
 ### Forum-Page-Views-Analysis
 
@@ -46,7 +46,7 @@ The user can select the level of aggregation of the data, whether daily, monthly
 
 **Repository Link**: [Forum-Page-Views-Analysis](https://github.com/ElliottFairhall/Forum-Page-Views-Analysis)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://elliottfairhall-forum-page-views-analysis-main-3fr0fy.streamlit.app/)
 
 ### Iris-Flower-Prediction
 
@@ -60,7 +60,7 @@ The project showcases the possibilities with machine learning and provides inter
 
 **Repository Link**: [Iris-Flower-Prediction](https://github.com/ElliottFairhall/Iris-Flower-Prediction)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://elliottfairhall-iris-flower-prediction-main-e0ikd7.streamlit.app/)
 
 ## Azure Projects
 

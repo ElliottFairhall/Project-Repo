@@ -12,6 +12,8 @@ The project creates visualizations of historical stock data, calculates returns,
 
 **Repository Link**: [Stock-Analysis-Tool](https://github.com/ElliottFairhall/Stock-Analysis-Tool)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+
 ### Sea-Level-Predictions
 
 This project aims to predict the sea level rise for the next 50 years using various models and data sources. The project involves analysing historical sea level data, using pandas, matplotlib and streamlit to visualise this infromation. 
@@ -19,6 +21,8 @@ This project aims to predict the sea level rise for the next 50 years using vari
 **This project is currently in development**
 
 **Repository Link**: [Sea-Level-Predictions](https://github.com/ElliottFairhall/Sea-Level-Prediction)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
 
 ### Interactive-Sentiment-Analysis
 
@@ -30,6 +34,8 @@ The application determines the overall sentiment of the text, calculates a polar
 
 **Repository Link**: [Interactive-Sentiment-Analysis](https://github.com/ElliottFairhall/Interactive-Sentiment-Analysis)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
+
 ### Forum-Page-Views-Analysis
 
 This project is a simple data analysis application built using the Python programming language and the Streamlit framework. The application visualises the daily page views of the freecodeCamp forum from 2016 to 2019. 
@@ -39,6 +45,8 @@ The user can select the level of aggregation of the data, whether daily, monthly
 **This project is currently in development**
 
 **Repository Link**: [Forum-Page-Views-Analysis](https://github.com/ElliottFairhall/Forum-Page-Views-Analysis)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
 
 ### Iris-Flower-Prediction
 
@@ -51,6 +59,8 @@ The project showcases the possibilities with machine learning and provides inter
 **This project is currently in development**
 
 **Repository Link**: [Iris-Flower-Prediction](https://github.com/ElliottFairhall/Iris-Flower-Prediction)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](elliottfairhall-stock-analysis-tool-main-pgogm7.streamlit.app)
 
 ## Azure Projects
 

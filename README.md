@@ -74,6 +74,22 @@ A machine learning application demonstrating real-time classification inference.
 
 ______________________________________________________________________
 
+## ❄️ Snowflake Data Engineering
+
+### [TechTrend Database](https://github.com/ElliottFairhall/techtrend-database)
+
+**Production-Grade Snowflake Cloud Data Platform**
+
+A full medallion architecture for TechTrend, a UK-based technology retail chain, built on Snowflake. Implements
+dimensional modelling, SCD Type 2 history tracking, ETL orchestration, a business intelligence layer, and an automated
+data governance framework.
+
+- **Key Features**: 8-dimension star schema with SCD Type 2, 4-phase ETL pipeline, 5 analytical BI views, 25+ data
+  quality rules, column and row-level security, UK fiscal year and GDPR compliance.
+- **Tech Stack**: SQL (Snowflake dialect), Kimball dimensional modelling, Snowflake Streams, Tasks, Dynamic Tables.
+
+______________________________________________________________________
+
 ## ☁️ Cloud Infrastructure
 
 ### [Google Drive to Azure Sync](https://github.com/ElliottFairhall/Google-Drive-to-Azure-Blob-Storage)

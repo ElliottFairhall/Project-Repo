@@ -90,6 +90,25 @@ data governance framework.
 
 ______________________________________________________________________
 
+## 🎓 Snowflake Tutorials
+
+A comprehensive collection of guides, demonstrations, and practical examples covering various Snowflake features and capabilities.
+
+- 📋 **[Dynamic Tables](https://github.com/ElliottFairhall/Snowflake_Dynamic_Tables)**: Learn to create, manage, and utilize dynamic tables in Snowflake for real-time data updates and effective data pipeline transformation.
+- 🧠 **[Cortex AI](https://github.com/ElliottFairhall/Snowflake_Cortex_AI)**: A comprehensive guide to leveraging Snowflake Cortex AI Functions for AI-powered analytics, including text classification and generation.
+- 🎭 **[Data Masking & Row Access](https://github.com/ElliottFairhall/Snowflake_Data_Masking_Row_Access)**: Implement robust data governance with Dynamic Data Masking and Row-Level Security policies.
+- 🤝 **[Data Sharing & Marketplace](https://github.com/ElliottFairhall/Snowflake_Data_Sharing_Marketplace)**: Explore secure data sharing capabilities and integrate with the Snowflake Data Marketplace for external datasets.
+- ⚡ **[Materialized Views](https://github.com/ElliottFairhall/Snowflake_Materialised_Views)**: Optimize query performance and reduce compute costs using Snowflake Materialized Views for complex aggregations.
+- 📓 **[Notebooks](https://github.com/ElliottFairhall/Snowflake_Notebooks)**: Develop and execute Python and SQL workflows directly within Snowflake using interactive notebooks.
+- 🔐 **[Role-Based Access Control (RBAC)](https://github.com/ElliottFairhall/Snowflake_RBAC)**: Design and implement secure and scalable RBAC hierarchies in Snowflake.
+- 🐍 **[Snowpark Python](https://github.com/ElliottFairhall/Snowflake_Snowpark_Python)**: Build scalable data pipelines and machine learning workflows using Snowflake Snowpark for Python.
+- 🚰 **[Snowpipe Data Loading](https://github.com/ElliottFairhall/Snowflake_Snowpipe_Data_Loading)**: Automate continuous data ingestion from cloud storage into Snowflake using Snowpipe.
+- ⚙️ **[Stored Procedures & UDFs](https://github.com/ElliottFairhall/Snowflake_Stored_Procedures_UDFs)**: Extend Snowflake functionality and automate tasks using custom Stored Procedures and User-Defined Functions.
+- 🔄 **[Streams & Tasks](https://github.com/ElliottFairhall/Snowflake_Streams_Tasks)**: Orchestrate automated data pipelines and capture data changes using Snowflake Streams and Tasks.
+- ⏱️ **[Time Travel & Fail-safe](https://github.com/ElliottFairhall/Snowflake_Time_Travel_Failsafe)**: Recover deleted data and explore historical states utilizing Snowflake's Time Travel and Fail-safe features.
+
+______________________________________________________________________
+
 ## ☁️ Cloud Infrastructure
 
 ### [Google Drive to Azure Sync](https://github.com/ElliottFairhall/Google-Drive-to-Azure-Blob-Storage)

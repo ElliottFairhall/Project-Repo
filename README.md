@@ -1,5 +1,7 @@
 # Project Portfolio
 
+> Architecture and design rationale: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
 A curated collection of data engineering, analytics, and machine learning projects managed by **Elliott Fairhall**.
 These projects demonstrate expertise in full-stack data applications, cloud infrastructure, and predictive intelligence.
 
